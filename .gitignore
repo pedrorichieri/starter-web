@@ -1,1 +1,3 @@
 exclude.txt
+*.log
+log/
